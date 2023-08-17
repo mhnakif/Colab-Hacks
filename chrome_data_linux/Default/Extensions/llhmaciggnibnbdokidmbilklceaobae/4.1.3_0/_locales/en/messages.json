@@ -1,0 +1,18 @@
+{
+   "contextToggle": {
+      "description": "Message displayed in context menu on/off option",
+      "message": "Disable shortcuts"
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Add keyboard support to Chrome's native HTML5 video player."
+   },
+   "extName": {
+      "description": "Extention name",
+      "message": "HTML5 Video Keyboard Shortcuts"
+   },
+   "shrtExtName": {
+      "description": "Short extension name",
+      "message": "Video Keys"
+   }
+}

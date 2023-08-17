@@ -1,0 +1,7 @@
+2023/08/17-20:44:47.337 1e4ac Reusing MANIFEST /content/Colab-Hacks/chrome_data_linux/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/17-20:44:47.338 1e4ac Recovering log #3
+2023/08/17-20:44:47.338 1e4ac Reusing old log /content/Colab-Hacks/chrome_data_linux/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/000003.log 
+2023/08/17-20:44:47.369 1e4ac Level-0 table #5: started
+2023/08/17-20:44:47.373 1e4ac Level-0 table #5: 4615 bytes OK
+2023/08/17-20:44:47.381 1e4ac Delete type=0 #3
+2023/08/17-20:44:47.381 1e4ac Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

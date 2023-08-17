@@ -1,0 +1,234 @@
+{
+   "addFolder": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Añadir carpeta..."
+   },
+   "addPage": {
+      "description": "2013.01.23",
+      "message": "Añadir página actual"
+   },
+   "addSeparator": {
+      "description": "2013.07.26 | Refer to Firefox Bookmark menu",
+      "message": "Añadir separador"
+   },
+   "askOpenAll": {
+      "description": "2013.01.29 | Refer to Firefox Bookmark menu",
+      "message": "Está a punto de abrir %bkmarkCount% marcadores.\n¿Está seguro de que desea continuar?"
+   },
+   "cancel": {
+      "description": "2013.01.30",
+      "message": "Cancelar"
+   },
+   "clickByLeft": {
+      "description": "2013.06.01",
+      "message": "Clic Izquierdo para abrir los marcadores en"
+   },
+   "clickByLeftCtrl": {
+      "description": "2013.06.01 | 'CMD' is the command(meta) key of Mac OSX",
+      "message": "Ctrl / CMD + Clic Izquierdo para abrir los marcadores en"
+   },
+   "clickByLeftShift": {
+      "description": "2013.06.01",
+      "message": "Shift + Clic Izquierdo para abrir los marcadores en"
+   },
+   "clickByMiddle": {
+      "description": "2013.06.01",
+      "message": "Clic Central para abrir los marcadores en"
+   },
+   "clickOption1": {
+      "description": "2017.03.29",
+      "message": "pestaña actual"
+   },
+   "clickOption2": {
+      "description": "2017.03.29",
+      "message": "pestaña actual (sin cerrar PmB)"
+   },
+   "clickOption3": {
+      "description": "2017.03.29",
+      "message": "nueva pestaña"
+   },
+   "clickOption4": {
+      "description": "2017.03.29",
+      "message": "pestaña en segundo plano"
+   },
+   "clickOption5": {
+      "description": "2017.03.29",
+      "message": "pestaña en segundo plano (sin cerrar PmB)"
+   },
+   "clickOption6": {
+      "description": "2017.03.29",
+      "message": "nueva ventana"
+   },
+   "clickOption7": {
+      "description": "2017.03.29",
+      "message": "ventana de incógnito"
+   },
+   "confirm": {
+      "description": "2013.01.30",
+      "message": "Confirmar"
+   },
+   "contributors": {
+      "description": "2015.08.22",
+      "message": "Colaboradores"
+   },
+   "control": {
+      "description": "2015.08.22",
+      "message": "Control"
+   },
+   "copy": {
+      "description": "2013.07.07 | Refer to Chrome Bookmark manager",
+      "message": "Copiar"
+   },
+   "cut": {
+      "description": "2013.07.07 | Refer to Chrome Bookmark manager",
+      "message": "Cortar"
+   },
+   "defExpand": {
+      "description": "2013.07.30",
+      "message": "Carpeta expandida predeterminada"
+   },
+   "default": {
+      "description": "2013.03.26",
+      "message": "Predeterminado"
+   },
+   "del": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Eliminar"
+   },
+   "edit": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Editar..."
+   },
+   "extDesc": {
+      "description": "2013.01.21",
+      "message": "Una forma más eficiente de ver y administrar su menú de marcadores."
+   },
+   "fontFamily": {
+      "description": "2015.01.11",
+      "message": "Tipo de letra"
+   },
+   "fontSize": {
+      "description": "2013.07.26",
+      "message": "Tamaño de la letra"
+   },
+   "general": {
+      "description": "2015.08.22",
+      "message": "General"
+   },
+   "hideRootFolder": {
+      "description": "2015.02.18 | Root folder means the top level folder",
+      "message": "Ocultar carpeta raíz"
+   },
+   "maxResults": {
+      "description": "2013.03.24",
+      "message": "Número máximo de resultados de búsqueda"
+   },
+   "newFolder": {
+      "description": "2013.01.28 | Refer to Chrome Bookmark manager",
+      "message": "Nueva carpeta"
+   },
+   "no": {
+      "description": "2013.03.27",
+      "message": "No"
+   },
+   "noBkmark": {
+      "description": "2013.01.22",
+      "message": "Clic Derecho aquí para añadir marcadores :-)"
+   },
+   "noResult": {
+      "description": "2013.01.27",
+      "message": "Ningún marcador encontrado"
+   },
+   "opFolderBy": {
+      "description": "2013.06.29",
+      "message": "Abrir carpetas con Clic Izquierdo"
+   },
+   "openAll": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Abrir todos los marcadores"
+   },
+   "openAllInI": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Abrir todos los marcadores en ventana de incógnito"
+   },
+   "openAllInN": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Abrir todos los marcadores en una ventana nueva"
+   },
+   "openInB": {
+      "description": "2013.01.23",
+      "message": "Abrir en pestaña en segundo plano"
+   },
+   "openInI": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Abrir en ventana de incógnito"
+   },
+   "openInN": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Abrir en nueva ventana"
+   },
+   "options": {
+      "description": "2013.01.23 | Refer to Tools -> Extensions -> PmB -> Options",
+      "message": "Opciones"
+   },
+   "paste": {
+      "description": "2013.07.7 | Refer to Chrome Bookmark manager",
+      "message": "Pegar"
+   },
+   "rememberPos": {
+      "description": "2014.02.24",
+      "message": "Recordar la última posición"
+   },
+   "rename": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Renombrar..."
+   },
+   "saved": {
+      "description": "2013.03.27",
+      "message": "Guardado"
+   },
+   "search": {
+      "description": "2013.01.10",
+      "message": "Buscar"
+   },
+   "searchTarget": {
+      "description": "2013.09.11",
+      "message": "Consultas de búsqueda permitidas"
+   },
+   "searchTargetOption1": {
+      "description": "2013.09.11",
+      "message": "por título y URL"
+   },
+   "searchTargetOption2": {
+      "description": "2013.09.11",
+      "message": "título solamente"
+   },
+   "setWidth": {
+      "description": "2013.03.24",
+      "message": "Ancho del panel"
+   },
+   "showInFolder": {
+      "description": "2014.03.21 | Refer to Chrome Bookmark manager",
+      "message": "Mostrar en la carpeta"
+   },
+   "sortByName": {
+      "description": "2013.09.17 | Refer to Firefox Bookmark menu",
+      "message": "Ordenar por nombre"
+   },
+   "tooltip": {
+      "description": "2013.03.24",
+      "message": "Mostrar información detallada emergente (Tooltip) de los marcadores"
+   },
+   "userInterface": {
+      "description": "2015.08.22",
+      "message": "Interfaz de usuario"
+   },
+   "warnOpenMany": {
+      "description": "2013.04.26 | Refer to Firefox -> Options -> Tabs",
+      "message": "Avisarme cuando abrir varias pestañas podría ralentizar Chrome"
+   },
+   "yes": {
+      "description": "2013.03.27",
+      "message": "Sí"
+   }
+}

@@ -1,0 +1,14 @@
+2023/08/17-17:59:44.386 f92f Reusing MANIFEST /content/chrome_data_linux/Profile 2/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/17-17:59:44.387 f92f Recovering log #10
+2023/08/17-17:59:44.391 f92f Reusing old log /content/chrome_data_linux/Profile 2/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/000010.log 
+2023/08/17-17:59:44.391 f92f Delete type=2 #8
+2023/08/17-17:59:45.412 f92f Level-0 table #15: started
+2023/08/17-17:59:45.417 f92f Level-0 table #15: 3179 bytes OK
+2023/08/17-17:59:45.428 f92f Delete type=0 #10
+2023/08/17-17:59:45.429 f93c Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 816 : 1
+2023/08/17-17:59:45.429 f93c Compacting 1@0 + 1@1 files
+2023/08/17-17:59:45.434 f93c Generated table #16@0: 189 keys, 3880 bytes
+2023/08/17-17:59:45.434 f93c Compacted 1@0 + 1@1 files => 3880 bytes
+2023/08/17-17:59:45.441 f93c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/17-17:59:45.441 f93c Delete type=2 #15
+2023/08/17-17:59:45.441 f93c Manual compaction at level-0 from '\x00\x06\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 816 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

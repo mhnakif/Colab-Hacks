@@ -1,0 +1,234 @@
+{
+   "addFolder": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Add folder..."
+   },
+   "addPage": {
+      "description": "2013.01.23",
+      "message": "Add current page"
+   },
+   "addSeparator": {
+      "description": "2013.07.26 | Refer to Firefox Bookmark menu",
+      "message": "Add separator"
+   },
+   "askOpenAll": {
+      "description": "2013.01.29 | Refer to Firefox Bookmark menu",
+      "message": "You are about to open %bkmarkCount% bookmarks.\nAre you sure you want to continue?"
+   },
+   "cancel": {
+      "description": "2013.01.30",
+      "message": "Cancel"
+   },
+   "clickByLeft": {
+      "description": "2013.06.01",
+      "message": "Left Click to open bookmarks in"
+   },
+   "clickByLeftCtrl": {
+      "description": "2013.06.01 | 'CMD' is the command(meta) key of Mac OSX",
+      "message": "Ctrl / CMD + Left Click to open bookmarks in"
+   },
+   "clickByLeftShift": {
+      "description": "2013.06.01",
+      "message": "Shift + Left Click to open bookmarks in"
+   },
+   "clickByMiddle": {
+      "description": "2013.06.01",
+      "message": "Middle Click to open bookmarks in"
+   },
+   "clickOption1": {
+      "description": "2017.03.29",
+      "message": "current tab"
+   },
+   "clickOption2": {
+      "description": "2017.03.29",
+      "message": "current tab (without closing PmB)"
+   },
+   "clickOption3": {
+      "description": "2017.03.29",
+      "message": "new tab"
+   },
+   "clickOption4": {
+      "description": "2017.03.29",
+      "message": "background tab"
+   },
+   "clickOption5": {
+      "description": "2017.03.29",
+      "message": "background tab (without closing PmB)"
+   },
+   "clickOption6": {
+      "description": "2017.03.29",
+      "message": "new window"
+   },
+   "clickOption7": {
+      "description": "2017.03.29",
+      "message": "incognito window"
+   },
+   "confirm": {
+      "description": "2013.01.30",
+      "message": "Confirm"
+   },
+   "contributors": {
+      "description": "2015.08.22",
+      "message": "Contributors"
+   },
+   "control": {
+      "description": "2015.08.22",
+      "message": "Control"
+   },
+   "copy": {
+      "description": "2013.07.07 | Refer to Chrome Bookmark manager",
+      "message": "Copy"
+   },
+   "cut": {
+      "description": "2013.07.07 | Refer to Chrome Bookmark manager",
+      "message": "Cut"
+   },
+   "defExpand": {
+      "description": "2013.07.30",
+      "message": "Default expanded folder"
+   },
+   "default": {
+      "description": "2013.03.26",
+      "message": "Default"
+   },
+   "del": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Delete"
+   },
+   "edit": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Edit..."
+   },
+   "extDesc": {
+      "description": "2013.01.21",
+      "message": "A more efficient way to view and manage your bookmarks menu."
+   },
+   "fontFamily": {
+      "description": "2015.01.11",
+      "message": "Font family"
+   },
+   "fontSize": {
+      "description": "2013.07.26",
+      "message": "Font size"
+   },
+   "general": {
+      "description": "2015.08.22",
+      "message": "General"
+   },
+   "hideRootFolder": {
+      "description": "2015.02.18 | Root folder means the top level folder",
+      "message": "Hide root folder"
+   },
+   "maxResults": {
+      "description": "2013.03.24",
+      "message": "Maximum number of search results"
+   },
+   "newFolder": {
+      "description": "2013.01.28 | Refer to Chrome Bookmark manager",
+      "message": "New folder"
+   },
+   "no": {
+      "description": "2013.03.27",
+      "message": "No"
+   },
+   "noBkmark": {
+      "description": "2013.01.22",
+      "message": "Right click here to add bookmarks :-)"
+   },
+   "noResult": {
+      "description": "2013.01.27",
+      "message": "No bookmarks are matched"
+   },
+   "opFolderBy": {
+      "description": "2013.06.29",
+      "message": "Open folders by Left Click"
+   },
+   "openAll": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Open all bookmarks"
+   },
+   "openAllInI": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Open all bookmarks in incognito window"
+   },
+   "openAllInN": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Open all bookmarks in new window"
+   },
+   "openInB": {
+      "description": "2013.01.23",
+      "message": "Open in background tab"
+   },
+   "openInI": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Open in incognito window"
+   },
+   "openInN": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Open in new window"
+   },
+   "options": {
+      "description": "2013.01.23 | Refer to Tools -> Extensions -> PmB -> Options",
+      "message": "Options"
+   },
+   "paste": {
+      "description": "2013.07.7 | Refer to Chrome Bookmark manager",
+      "message": "Paste"
+   },
+   "rememberPos": {
+      "description": "2014.02.24",
+      "message": "Remember last position"
+   },
+   "rename": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Rename..."
+   },
+   "saved": {
+      "description": "2013.03.27",
+      "message": "Saved"
+   },
+   "search": {
+      "description": "2013.01.10",
+      "message": "Search"
+   },
+   "searchTarget": {
+      "description": "2013.09.11",
+      "message": "Search queries allowed"
+   },
+   "searchTargetOption1": {
+      "description": "2013.09.11",
+      "message": "both title and URL"
+   },
+   "searchTargetOption2": {
+      "description": "2013.09.11",
+      "message": "title only"
+   },
+   "setWidth": {
+      "description": "2013.03.24",
+      "message": "Panel width"
+   },
+   "showInFolder": {
+      "description": "2014.03.21 | Refer to Chrome Bookmark manager",
+      "message": "Show in folder"
+   },
+   "sortByName": {
+      "description": "2013.09.17 | Refer to Firefox Bookmark menu",
+      "message": "Sort by name"
+   },
+   "tooltip": {
+      "description": "2013.03.24",
+      "message": "Show tooltip with detailed information of bookmarks"
+   },
+   "userInterface": {
+      "description": "2015.08.22",
+      "message": "UI"
+   },
+   "warnOpenMany": {
+      "description": "2013.04.26 | Refer to Firefox -> Options -> Tabs",
+      "message": "Warn me when opening multiple tabs might slow down Chrome"
+   },
+   "yes": {
+      "description": "2013.03.27",
+      "message": "Yes"
+   }
+}

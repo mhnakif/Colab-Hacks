@@ -1,0 +1,37 @@
+{
+   "background": {
+      "page": "./background.html"
+   },
+   "browser_action": {
+      "default_icon": "./images/icon38.png",
+      "default_popup": "./popup.html"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Alt+Shift+B"
+         }
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "icons": {
+      "128": "./images/icon128.png",
+      "16": "./images/icon16.png",
+      "48": "./images/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCs/zLnGy6OijinROSxDpCuIohKCLdegvHYPFbWZVI7bn9P0vCXdssyfL6xfntjOkUjFXu8cs4EgBVv3YAYCfzYapGIAvglQiczBH/Cy8N2TpTB4Tu6vqCKZtkJL37hkzg1DXypJ3gOHKTFtuFXuVTKolUYDOK9pUFGdN37kGq72wIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "64",
+   "name": "Popup my Bookmarks",
+   "offline_enabled": true,
+   "options_page": "./options.html",
+   "options_ui": {
+      "chrome_style": false,
+      "page": "./options.html"
+   },
+   "permissions": [ "activeTab", "bookmarks", "chrome://favicon/", "storage", "tabs" ],
+   "short_name": "PmB",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "7.1.1"
+}

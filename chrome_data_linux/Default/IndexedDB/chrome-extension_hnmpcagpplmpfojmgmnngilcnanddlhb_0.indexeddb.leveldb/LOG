@@ -1,0 +1,14 @@
+2023/08/17-20:41:43.260 1e4ac Reusing MANIFEST /content/Colab-Hacks/chrome_data_linux/Default/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/17-20:41:43.260 1e4ac Recovering log #14
+2023/08/17-20:41:43.260 1e4ac Reusing old log /content/Colab-Hacks/chrome_data_linux/Default/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/000014.log 
+2023/08/17-20:41:43.260 1e4ac Delete type=2 #12
+2023/08/17-20:41:43.513 1e4b9 Level-0 table #19: started
+2023/08/17-20:41:43.523 1e4b9 Level-0 table #19: 3202 bytes OK
+2023/08/17-20:41:43.536 1e4b9 Delete type=0 #14
+2023/08/17-20:41:43.537 1e4b9 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1016 : 1
+2023/08/17-20:41:43.537 1e4b9 Compacting 1@0 + 1@1 files
+2023/08/17-20:41:43.549 1e4b9 Generated table #20@0: 218 keys, 4256 bytes
+2023/08/17-20:41:43.549 1e4b9 Compacted 1@0 + 1@1 files => 4256 bytes
+2023/08/17-20:41:43.562 1e4b9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/17-20:41:43.562 1e4b9 Delete type=2 #19
+2023/08/17-20:41:43.562 1e4b8 Manual compaction at level-0 from '\x00\x07\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1016 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

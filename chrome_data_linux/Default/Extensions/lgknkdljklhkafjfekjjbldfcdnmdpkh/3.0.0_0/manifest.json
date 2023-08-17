@@ -1,0 +1,29 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "images/VideoMirror128.png",
+         "16": "images/VideoMirror16.png",
+         "32": "images/VideoMirror32.png",
+         "48": "images/VideoMirror48.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "VideoMirror Usage: on a page with a video, click the VideoMirror icon. All videos on the page should mirror. Click again to undo."
+   },
+   "description": "Video mirror (left-to-right) on any page (including Zoom, YouTube, Vimeo, Twitch, Google Meet, etc.)",
+   "icons": {
+      "128": "images/VideoMirror128.png",
+      "16": "images/VideoMirror16.png",
+      "32": "images/VideoMirror32.png",
+      "48": "images/VideoMirror48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmP1oMy9kwX3722xVckHf7OQyTD1OB2NE7DcpHrtMWVtJZQLxPuVQCF0qP7DutqtozBN4hZHH3UoU3HVimIvDW2zivr1MGD6FiS+/YnRdjA9XQ7/Pd8HkujwDNOijoaZRpXVwk8w1aAaIL9CQfW6oH3/U/oJ4Dtx5iugBgemO2SHmONDTgFk7ZcoHYXbyCU2ypbTEgnz6US1G8mPC81tdzXHAvoX/dYQu+8Cnoo8mDS752kg2EJ/0FCsdiIl0H7KF5CsfTyy6RvungXxBgiG7YW1P4wr2UADFh9JWqyAJCczKZiABYd8AWsj6w2TCtpmjsCe+UJIt3Eo48XqiMQtocQIDAQAB",
+   "manifest_version": 3,
+   "name": "VideoMirror",
+   "options_ui": {
+      "open_in_tab": false,
+      "page": "options.html"
+   },
+   "permissions": [ "scripting", "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.0"
+}

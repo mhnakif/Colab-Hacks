@@ -1,0 +1,206 @@
+{
+   "addFolder": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Nieuwe map..."
+   },
+   "addPage": {
+      "description": "2013.01.23",
+      "message": "Huidige pagina toevoegen"
+   },
+   "addSeparator": {
+      "description": "2013.07.26 | Refer to Firefox Bookmark menu",
+      "message": "Scheidingslijn toevoegen"
+   },
+   "askOpenAll": {
+      "description": "2013.01.29 | Refer to Firefox Bookmark menu",
+      "message": "U staat op het punt %bkmarkCount% bladwijzers te openen.\nWeet u zeker dat u door wilt gaan?"
+   },
+   "cancel": {
+      "description": "2013.01.30",
+      "message": "Annuleren"
+   },
+   "clickByLeft": {
+      "description": "2013.06.01",
+      "message": "Linker muisknop opent bladwijzers in"
+   },
+   "clickByLeftCtrl": {
+      "description": "2013.06.01 | 'CMD' is the command(meta) key of Mac OSX",
+      "message": "Ctrl / CMD + linker muisknop opent bladwijzers in"
+   },
+   "clickByLeftShift": {
+      "description": "2013.06.01",
+      "message": "Shift + linker muisknop opent bladwijzers in"
+   },
+   "clickByMiddle": {
+      "description": "2013.06.01",
+      "message": "Middelste muisknop opent bladwijzers in"
+   },
+   "clickOption1": {
+      "description": "2017.03.29",
+      "message": "huidig tabblad"
+   },
+   "clickOption2": {
+      "description": "2017.03.29",
+      "message": "huidig tabblad (PmB open)"
+   },
+   "clickOption3": {
+      "description": "2017.03.29",
+      "message": "nieuw tabblad"
+   },
+   "clickOption4": {
+      "description": "2017.03.29",
+      "message": "tabblad op achtergrond"
+   },
+   "clickOption5": {
+      "description": "2017.03.29",
+      "message": "tabblad op achtergrond (PmB open)"
+   },
+   "clickOption6": {
+      "description": "2017.03.29",
+      "message": "nieuw venster"
+   },
+   "clickOption7": {
+      "description": "2017.03.29",
+      "message": "incognitovenster"
+   },
+   "confirm": {
+      "description": "2013.01.30",
+      "message": "Bevestigen"
+   },
+   "copy": {
+      "description": "2013.07.07 | Refer to Chrome Bookmark manager",
+      "message": "Kopiëren"
+   },
+   "cut": {
+      "description": "2013.07.07 | Refer to Chrome Bookmark manager",
+      "message": "Knippen"
+   },
+   "defExpand": {
+      "description": "2013.07.30",
+      "message": "Standaard opengeklapte map"
+   },
+   "default": {
+      "description": "2013.03.26",
+      "message": "Standaard"
+   },
+   "del": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Verwijderen"
+   },
+   "edit": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Bewerken..."
+   },
+   "extDesc": {
+      "description": "2013.01.21",
+      "message": "Een efficiëntere manier om uw bladwijzermenu te bekijken en beheren"
+   },
+   "fontSize": {
+      "description": "2013.07.26",
+      "message": "Lettergrootte"
+   },
+   "maxResults": {
+      "description": "2013.03.24",
+      "message": "Het maximum aantal zoekresultaten"
+   },
+   "newFolder": {
+      "description": "2013.01.28 | Refer to Chrome Bookmark manager",
+      "message": "Nieuwe map"
+   },
+   "no": {
+      "description": "2013.03.27",
+      "message": "Nee"
+   },
+   "noBkmark": {
+      "description": "2013.01.22",
+      "message": "Rechter muisknop opent bladwijzers hier ;-)"
+   },
+   "noResult": {
+      "description": "2013.01.27",
+      "message": "Geen overeenkomstige bladwijzers gevonden"
+   },
+   "opFolderBy": {
+      "description": "2013.06.29",
+      "message": "Open mappen met linker muisknop"
+   },
+   "openAll": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Alle bladwijzers openen"
+   },
+   "openAllInI": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Open alle bladwijzers in incognitovenster"
+   },
+   "openAllInN": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Open alle bladwijzers in nieuw venster"
+   },
+   "openInB": {
+      "description": "2013.01.23",
+      "message": "Openen in tabblad op achtergrond"
+   },
+   "openInI": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Open in incognitovenster"
+   },
+   "openInN": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Openen in nieuw venster"
+   },
+   "options": {
+      "description": "2013.01.23 | Refer to Tools -> Extensions -> PmB -> Options",
+      "message": "Opties"
+   },
+   "paste": {
+      "description": "2013.07.7 | Refer to Chrome Bookmark manager",
+      "message": "Plakken"
+   },
+   "rememberPos": {
+      "description": "2014.02.24",
+      "message": "Laatste positie onthouden"
+   },
+   "rename": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Naam wijzigen..."
+   },
+   "saved": {
+      "description": "2013.03.27",
+      "message": "Opgeslagen"
+   },
+   "search": {
+      "description": "2013.01.10",
+      "message": "Zoeken"
+   },
+   "searchTarget": {
+      "description": "2013.09.11",
+      "message": "Toegestane zoekopdrachten"
+   },
+   "searchTargetOption1": {
+      "description": "2013.09.11",
+      "message": "zowel titel als URL"
+   },
+   "searchTargetOption2": {
+      "description": "2013.09.11",
+      "message": "alleen titel"
+   },
+   "setWidth": {
+      "description": "2013.03.24",
+      "message": "Breedte paneel"
+   },
+   "sortByName": {
+      "description": "2013.09.17 | Refer to Firefox Bookmark menu",
+      "message": "Sorteren op naam"
+   },
+   "tooltip": {
+      "description": "2013.03.24",
+      "message": "Toon tooltip met gedetailleerde informatie over bladwijzers"
+   },
+   "warnOpenMany": {
+      "description": "2013.04.26 | Refer to Firefox -> Options -> Tabs",
+      "message": "Waarschuw mij wanneer het openen van meerdere tabs Chrome kan vertragen"
+   },
+   "yes": {
+      "description": "2013.03.27",
+      "message": "Ja"
+   }
+}

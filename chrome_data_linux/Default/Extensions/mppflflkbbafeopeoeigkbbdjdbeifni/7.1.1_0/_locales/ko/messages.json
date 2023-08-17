@@ -1,0 +1,210 @@
+{
+   "addFolder": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "폴더 추가..."
+   },
+   "addPage": {
+      "description": "2013.01.23",
+      "message": "현재 페이지 추가"
+   },
+   "addSeparator": {
+      "description": "2013.07.26 | Refer to Firefox Bookmark menu",
+      "message": "구분선 추가"
+   },
+   "askOpenAll": {
+      "description": "2013.01.29 | Refer to Firefox Bookmark menu",
+      "message": "%bkmarkCount% 개의 북마크를 열려고 합니다.\n계속할까요?"
+   },
+   "cancel": {
+      "description": "2013.01.30",
+      "message": "취소"
+   },
+   "clickByLeft": {
+      "description": "2013.06.01",
+      "message": "북마크 클릭시"
+   },
+   "clickByLeftCtrl": {
+      "description": "2013.06.01 | 'CMD' is the command(meta) key of Mac OSX",
+      "message": "북마크 Ctrl / CMD + 클릭시"
+   },
+   "clickByLeftShift": {
+      "description": "2013.06.01",
+      "message": "북마크 Shift + 클릭시"
+   },
+   "clickByMiddle": {
+      "description": "2013.06.01",
+      "message": "북마크 휠클릭시"
+   },
+   "clickOption1": {
+      "description": "2017.03.29",
+      "message": "현재 탭"
+   },
+   "clickOption2": {
+      "description": "2017.03.29",
+      "message": "현재 탭(PmB 닫지 않음)"
+   },
+   "clickOption3": {
+      "description": "2017.03.29",
+      "message": "새 탭"
+   },
+   "clickOption4": {
+      "description": "2017.03.29",
+      "message": "백그라운드 탭"
+   },
+   "clickOption5": {
+      "description": "2017.03.29",
+      "message": "백그라운드 탭(PmB 닫지 않음)"
+   },
+   "clickOption6": {
+      "description": "2017.03.29",
+      "message": "새 창"
+   },
+   "clickOption7": {
+      "description": "2017.03.29",
+      "message": "시크릿 창"
+   },
+   "confirm": {
+      "description": "2013.01.30",
+      "message": "확인"
+   },
+   "copy": {
+      "description": "2013.07.07 | Refer to Chrome Bookmark manager",
+      "message": "복사"
+   },
+   "cut": {
+      "description": "2013.07.07 | Refer to Chrome Bookmark manager",
+      "message": "잘라내기"
+   },
+   "defExpand": {
+      "description": "2013.07.30",
+      "message": "기본으로 펼칠 폴더"
+   },
+   "default": {
+      "description": "2013.03.26",
+      "message": "기본값"
+   },
+   "del": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "삭제"
+   },
+   "edit": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "편집..."
+   },
+   "extDesc": {
+      "description": "2013.01.21",
+      "message": "북마크 메뉴를 더 효과적으로 보고 관리하는 방법."
+   },
+   "fontSize": {
+      "description": "2013.07.26",
+      "message": "폰트 크기"
+   },
+   "maxResults": {
+      "description": "2013.03.24",
+      "message": "최대 검색 결과 수"
+   },
+   "newFolder": {
+      "description": "2013.01.28 | Refer to Chrome Bookmark manager",
+      "message": "새 폴더"
+   },
+   "no": {
+      "description": "2013.03.27",
+      "message": "아니오"
+   },
+   "noBkmark": {
+      "description": "2013.01.22",
+      "message": "여기를 우클릭하여 북마크를 추가하세요 :-)"
+   },
+   "noResult": {
+      "description": "2013.01.27",
+      "message": "해당하는 북마크 없음"
+   },
+   "opFolderBy": {
+      "description": "2013.06.29",
+      "message": "클릭으로 폴더 열기"
+   },
+   "openAll": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "모든 북마크 열기"
+   },
+   "openAllInI": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "모든 북마크 시크릿 창에서 열기"
+   },
+   "openAllInN": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "모든 북마크 새 창에서 열기"
+   },
+   "openInB": {
+      "description": "2013.01.23",
+      "message": "배경 탭에서 열기"
+   },
+   "openInI": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "시크릿 창에서 열기"
+   },
+   "openInN": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "새 창에서 열기"
+   },
+   "options": {
+      "description": "2013.01.23 | Refer to Tools -> Extensions -> PmB -> Options",
+      "message": "옵션"
+   },
+   "paste": {
+      "description": "2013.07.7 | Refer to Chrome Bookmark manager",
+      "message": "붙여넣기"
+   },
+   "rememberPos": {
+      "description": "2014.02.24",
+      "message": "마지막 위치 기억"
+   },
+   "rename": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "이름 변경..."
+   },
+   "saved": {
+      "description": "2013.03.27",
+      "message": "저장됨"
+   },
+   "search": {
+      "description": "2013.01.10",
+      "message": "검색"
+   },
+   "searchTarget": {
+      "description": "2013.09.11",
+      "message": "검색 가능 대상"
+   },
+   "searchTargetOption1": {
+      "description": "2013.09.11",
+      "message": "제목과 URL"
+   },
+   "searchTargetOption2": {
+      "description": "2013.09.11",
+      "message": "제목만"
+   },
+   "setWidth": {
+      "description": "2013.03.24",
+      "message": "패널 폭"
+   },
+   "showInFolder": {
+      "description": "2014.03.21 | Refer to Chrome Bookmark manager",
+      "message": "폴더로 보기"
+   },
+   "sortByName": {
+      "description": "2013.09.17 | Refer to Firefox Bookmark menu",
+      "message": "이름으로 정렬"
+   },
+   "tooltip": {
+      "description": "2013.03.24",
+      "message": "북마크 상세 정보 툴팁 표시"
+   },
+   "warnOpenMany": {
+      "description": "2013.04.26 | Refer to Firefox -> Options -> Tabs",
+      "message": "크롬이 느려질 만큼 많은 탭을 열기 전에 경고하기"
+   },
+   "yes": {
+      "description": "2013.03.27",
+      "message": "네"
+   }
+}

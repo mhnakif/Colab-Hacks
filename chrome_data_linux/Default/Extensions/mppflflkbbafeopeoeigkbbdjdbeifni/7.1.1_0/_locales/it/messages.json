@@ -1,0 +1,210 @@
+{
+   "addFolder": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Aggiungi cartella..."
+   },
+   "addPage": {
+      "description": "2013.01.23",
+      "message": "Aggiungi la pagina corrente"
+   },
+   "addSeparator": {
+      "description": "2013.07.26 | Refer to Firefox Bookmark menu",
+      "message": "Aggiungi separatore"
+   },
+   "askOpenAll": {
+      "description": "2013.01.29 | Refer to Firefox Bookmark menu",
+      "message": "Stai per aprire %bkmarkCount% Preferiti.\nSei certo di voler continuare?"
+   },
+   "cancel": {
+      "description": "2013.01.30",
+      "message": "Annulla"
+   },
+   "clickByLeft": {
+      "description": "2013.06.01",
+      "message": "Clic sinistro apre i Preferiti in"
+   },
+   "clickByLeftCtrl": {
+      "description": "2013.06.01 | 'CMD' is the command(meta) key of Mac OSX",
+      "message": "Ctrl / CMD + Clic sinistro apre i Preferiti in"
+   },
+   "clickByLeftShift": {
+      "description": "2013.06.01",
+      "message": "Shift + Clic sinistro apre i Preferiti in"
+   },
+   "clickByMiddle": {
+      "description": "2013.06.01",
+      "message": "Clic centrale apre i Preferiti in"
+   },
+   "clickOption1": {
+      "description": "2017.03.29",
+      "message": "scheda corrente"
+   },
+   "clickOption2": {
+      "description": "2017.03.29",
+      "message": "scheda corrente (non chiude PmB)"
+   },
+   "clickOption3": {
+      "description": "2017.03.29",
+      "message": "nuova scheda"
+   },
+   "clickOption4": {
+      "description": "2017.03.29",
+      "message": "scheda in secondo piano"
+   },
+   "clickOption5": {
+      "description": "2017.03.29",
+      "message": "scheda in secondo piano (non chiude PmB)"
+   },
+   "clickOption6": {
+      "description": "2017.03.29",
+      "message": "nuova finestra"
+   },
+   "clickOption7": {
+      "description": "2017.03.29",
+      "message": "finestra in incognito"
+   },
+   "confirm": {
+      "description": "2013.01.30",
+      "message": "Salva"
+   },
+   "copy": {
+      "description": "2013.07.07 | Refer to Chrome Bookmark manager",
+      "message": "Copia"
+   },
+   "cut": {
+      "description": "2013.07.07 | Refer to Chrome Bookmark manager",
+      "message": "Taglia"
+   },
+   "defExpand": {
+      "description": "2013.07.30",
+      "message": "Cartella predefinita di espansione"
+   },
+   "default": {
+      "description": "2013.03.26",
+      "message": "Predefinito"
+   },
+   "del": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Elimina"
+   },
+   "edit": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Modifica..."
+   },
+   "extDesc": {
+      "description": "2013.01.21",
+      "message": "Un modo più efficiente per visualizzare e gestire i tuoi Preferiti."
+   },
+   "fontSize": {
+      "description": "2013.07.26",
+      "message": "Dimensione del carattere"
+   },
+   "maxResults": {
+      "description": "2013.03.24",
+      "message": "Numero massimo dei risultati di ricerca"
+   },
+   "newFolder": {
+      "description": "2013.01.28 | Refer to Chrome Bookmark manager",
+      "message": "Nuova cartella"
+   },
+   "no": {
+      "description": "2013.03.27",
+      "message": "No"
+   },
+   "noBkmark": {
+      "description": "2013.01.22",
+      "message": "Clic destro per aggiungere Preferiti :-)"
+   },
+   "noResult": {
+      "description": "2013.01.27",
+      "message": "Preferito non trovato"
+   },
+   "opFolderBy": {
+      "description": "2013.06.29",
+      "message": "Apri cartelle usando il Clic sinistro"
+   },
+   "openAll": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Apri tutti i Preferiti"
+   },
+   "openAllInI": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Apri tutti i Preferiti in una finestra in incognito"
+   },
+   "openAllInN": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Apri tutti i Preferiti in un'altra finestra"
+   },
+   "openInB": {
+      "description": "2013.01.23",
+      "message": "Apri in una scheda in secondo piano"
+   },
+   "openInI": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Apri in una finestra in incognito"
+   },
+   "openInN": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Apri in un'altra finestra"
+   },
+   "options": {
+      "description": "2013.01.23 | Refer to Tools -> Extensions -> PmB -> Options",
+      "message": "Opzioni"
+   },
+   "paste": {
+      "description": "2013.07.7 | Refer to Chrome Bookmark manager",
+      "message": "Incolla"
+   },
+   "rememberPos": {
+      "description": "2014.02.24",
+      "message": "Ricorda l'ultima posizione"
+   },
+   "rename": {
+      "description": "2013.01.23 | Refer to Chrome Bookmark manager",
+      "message": "Rinomina..."
+   },
+   "saved": {
+      "description": "2013.03.27",
+      "message": "Salvato"
+   },
+   "search": {
+      "description": "2013.01.10",
+      "message": "Cerca"
+   },
+   "searchTarget": {
+      "description": "2013.09.11",
+      "message": "Query di ricerca consentite"
+   },
+   "searchTargetOption1": {
+      "description": "2013.09.11",
+      "message": "sia titolo che URL"
+   },
+   "searchTargetOption2": {
+      "description": "2013.09.11",
+      "message": "solo il titolo"
+   },
+   "setWidth": {
+      "description": "2013.03.24",
+      "message": "Larghezza del pannello"
+   },
+   "showInFolder": {
+      "description": "2014.03.21 | Refer to Chrome Bookmark manager",
+      "message": "Mostra nella cartella"
+   },
+   "sortByName": {
+      "description": "2013.09.17 | Refer to Firefox Bookmark menu",
+      "message": "Ordina per nome"
+   },
+   "tooltip": {
+      "description": "2013.03.24",
+      "message": "Mostra informazioni dettagliate dei Preferiti"
+   },
+   "warnOpenMany": {
+      "description": "2013.04.26 | Refer to Firefox -> Options -> Tabs",
+      "message": "Avvisa quando l'apertura di più schede potrebbe rallentare Chrome"
+   },
+   "yes": {
+      "description": "2013.03.27",
+      "message": "Sì"
+   }
+}

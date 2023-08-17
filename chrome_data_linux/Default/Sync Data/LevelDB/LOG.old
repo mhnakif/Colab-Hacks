@@ -1,0 +1,15 @@
+2023/08/17-20:03:03.042 1aa66 Reusing MANIFEST /content/Colab-Hacks/chrome_data_linux/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/08/17-20:03:03.043 1aa66 Recovering log #13
+2023/08/17-20:03:03.070 1aa66 Reusing old log /content/Colab-Hacks/chrome_data_linux/Default/Sync Data/LevelDB/000013.log 
+2023/08/17-20:31:41.858 1aa58 Level-0 table #17: started
+2023/08/17-20:31:41.876 1aa58 Level-0 table #17: 118837 bytes OK
+2023/08/17-20:31:41.896 1aa58 Delete type=0 #13
+2023/08/17-20:31:41.896 1aa58 Compacting 4@0 + 1@1 files
+2023/08/17-20:31:41.932 1aa58 Generated table #18@0: 106 keys, 16964 bytes
+2023/08/17-20:31:41.932 1aa58 Compacted 4@0 + 1@1 files => 16964 bytes
+2023/08/17-20:31:41.943 1aa58 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/17-20:31:41.944 1aa58 Delete type=2 #12
+2023/08/17-20:31:41.944 1aa58 Delete type=2 #10
+2023/08/17-20:31:41.944 1aa58 Delete type=2 #17
+2023/08/17-20:31:41.944 1aa58 Delete type=2 #14
+2023/08/17-20:31:41.944 1aa58 Delete type=2 #8
